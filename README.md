@@ -6,8 +6,6 @@ file:///Users/Hardings/Documents/GitHub/DND_LFG/index.html
 
 A brief history is given on the game itself, and the benefits of playing.
 
-LFG Screenshot
-
 Technologies used: HTML, CSS, Javascript
 
 Ideas for improvement: 
