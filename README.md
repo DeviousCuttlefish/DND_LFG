@@ -2,7 +2,7 @@ Jeremy Harding
 
 Web App for finding groups to play D&D
 
-file:///Users/Hardings/Documents/GitHub/DND_LFG/index.html
+https://deviouscuttlefish.github.io/DND_LFG/
 
 A brief history is given on the game itself, and the benefits of playing.
 
