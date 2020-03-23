@@ -1,6 +1,6 @@
 Jeremy Harding
 
-Web App for finding groups to play D&D
+Web App for finding groups to play Dungeons and Dragons.
 
 https://deviouscuttlefish.github.io/DND_LFG/
 
